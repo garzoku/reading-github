@@ -30,4 +30,4 @@ Lowering the barrier to entry democratizes open source development, and helps yo
 6. Made a new repo, clone it to your local computer and add a README
 7. In the readme, add your name, birthday, and a list of all your favorite things including book, movie, band/music, food and past-time
 8. On Github, find 3 repositories you're interested in and 'star' them
-9. This Github article is interesting, but you don't need to read it for this exercise. Just do number 4 and move on to the next drill
+9. This Github article is interesting, but you don't need to read it for this exercise. Just do number 4 and move on!
